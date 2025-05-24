@@ -1,0 +1,3 @@
+telethon==1.36.0
+aiogram==3.13.1
+pytz==2024.2
